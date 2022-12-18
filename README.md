@@ -1,3 +1,3 @@
 # COVID-19-Tracker
 
-This project demonstrate IT Dashboard highlights information from multiple data sources.
+This project demonstrate a dashboard using Tableau that is looking at how the Covid Vaccination program is performing worldwide.
